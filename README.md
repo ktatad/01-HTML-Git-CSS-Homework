@@ -12,7 +12,7 @@ The user will be directed to the appropriate content on the page, by clicking th
 
 The user will be able to see alternate text in place of image files which may not be displayed.
 
-[Horiseon Link Screenshot](assets/images/Screenshot(2).png)
+[Horiseon Link Screenshot](assets/images/screenshot.png)
 
 ## Credits
 
